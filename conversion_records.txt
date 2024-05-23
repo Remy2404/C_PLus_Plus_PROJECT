@@ -1,0 +1,2 @@
+Fahrenheit to Celsius: 35 -> 1.66667
+Celsius to Fahrenheit: 30 -> 86
